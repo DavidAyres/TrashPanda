@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+application/bin
 
 # Compiled Object files
 *.slo
